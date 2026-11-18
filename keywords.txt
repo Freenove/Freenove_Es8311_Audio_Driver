@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Freenove_ES8311	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setI2CPins	KEYWORD2
+setI2SPins	KEYWORD2
+setPAPin	KEYWORD2
+setPinsFreenoveESP32P4	KEYWORD2
+begin	KEYWORD2
+end	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+available	KEYWORD2
+setVolume	KEYWORD2
+setMicGain	KEYWORD2
+setMute	KEYWORD2
+setPA	KEYWORD2
+open	KEYWORD2
+configSample	KEYWORD2
+startCodec	KEYWORD2
+readRegister	KEYWORD2
+writeRegister	KEYWORD2
+isReady	KEYWORD2
+sampleRate	KEYWORD2
+i2s	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+FREENOVE_ES8311_I2C_ADDR	LITERAL1
+FREENOVE_ES8311_PIN_I2C_SDA	LITERAL1
+FREENOVE_ES8311_PIN_I2C_SCL	LITERAL1
+FREENOVE_ES8311_PIN_I2S_MCLK	LITERAL1
+FREENOVE_ES8311_PIN_I2S_BCLK	LITERAL1
+FREENOVE_ES8311_PIN_I2S_DIN	LITERAL1
+FREENOVE_ES8311_PIN_I2S_WS	LITERAL1
+FREENOVE_ES8311_PIN_I2S_DOUT	LITERAL1
+FREENOVE_ES8311_PIN_PA	LITERAL1
